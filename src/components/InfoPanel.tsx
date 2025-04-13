@@ -25,7 +25,7 @@ const styles = {
       position: 'absolute' as const,
       top: '50%',
       right: '25px',
-      transform: 'translateY(-86%)',
+      transform: 'translateY(-60%)',
       width: '230px',
       minHeight: '120px',
       padding: '15px',

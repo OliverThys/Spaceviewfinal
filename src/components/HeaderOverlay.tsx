@@ -5,7 +5,7 @@ export default function HeaderOverlay() {
     return (
       <div style={styles.container}>
         <div style={styles.title}>SpaceView ©</div>
-        <div style={styles.subtitle}>by Oliver Thys</div>
+        <div style={styles.subtitle}>by Oliver Thys - 2025</div>
       </div>
     )
   }
