@@ -190,7 +190,7 @@ export default function SolarSystemCanvas() {
         onClick={() => controlsRef.current?.reset()}
         style={{
           position: 'absolute',
-          top: '490px',
+          top: '300px',
           right: '80px',
           zIndex: 1000,
           backgroundColor: 'rgba(255, 255, 255, 0.1)',
